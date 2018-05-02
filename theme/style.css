@@ -41,7 +41,7 @@
 }
 
 #tkbox > div {
-
+  margin-top: 5%;
   justify-content: center;
   flex-wrap: wrap;
   background-color: white;
@@ -60,6 +60,7 @@
 #tkbox li {
   font-weight: bold;
   width: 100%;
+  padding-bottom: 2%;
 }
 
 #tkbox a:hover {
